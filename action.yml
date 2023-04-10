@@ -1,5 +1,0 @@
-name: rz Revathy Testing Version
-description: This action will take
-runs: 
-  using: node16
-  main: src/index.js

@@ -1,0 +1,40 @@
+export const StoreInformationData = [{
+  addressLine1: 'Austurstræti 17, 4. Hæð',
+  addressLine2: '101 Reykjavík',
+  // displayImage: {
+  //   alt: null,
+  //   url: 'https://d16ppiey8peuxi.cloudfront.net/roanuz/img/rz-logo-1.53ca2f30.svg',
+  // },
+  id: 2,
+  name: 'Reykjavík',
+  openHoursDesc: '<h4><strong>Afgrei&eth;slut&iacute;mi</strong></h4>\n<p><strong></strong><span>Vikir dagar: 10:00-18:30</span><br /><span>Laugardagar: 12:00-16:00 </span><br /><span>Sunnudagar: 14:00-18:00</span></p>',
+  sortOrder: 2,
+  storeMapPoint: '',
+  telephone: '+18552776784',
+}, {
+  addressLine1: 'T-16/1, Coastal Road',
+  addressLine2: 'Besant Nagar - 90',
+  displayImage: {
+    alt: null,
+    url: 'https://d16ppiey8peuxi.cloudfront.net/roanuz/img/rz-logo-1.53ca2f30.svg',
+  },
+  id: 1,
+  name: 'Chennai',
+  openHoursDesc: '<h4><strong>Afgrei&eth;slut&iacute;mi</strong></h4>\n<p><strong></strong><span>Vikir dagar: 11:00-17:30</span><br /><span>Laugardagar: 11:00-18:00 </span><br /><span>Sunnudagar: 12:00-17:00</span></p>',
+  sortOrder: 1,
+  storeMapPoint: 'https://www.roanuz.com',
+  telephone: '+18552776784',
+}, {
+  addressLine1: '9/29, St. Antony\'s Nagar',
+  addressLine2: 'Ootinkuzhi, Pozhiyoor - 695513',
+  displayImage: {
+    alt: null,
+    url: 'https://d16ppiey8peuxi.cloudfront.net/roanuz/img/rz-logo-1.53ca2f30.svg',
+  },
+  id: 3,
+  name: 'Kerala',
+  openHoursDesc: '<h4><strong>Afgrei&eth;slut&iacute;mi</strong></h4>\n<p><strong></strong><span>Vikir dagar: 12:00-16:30</span><br /><span>Laugardagar: 11:00-18:00 </span><br /><span>Sunnudagar: 12:00-17:00</span></p>',
+  sortOrder: 3,
+  storeMapPoint: '',
+  telephone: '+18552776784',
+}];
